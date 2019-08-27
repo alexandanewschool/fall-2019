@@ -1,1 +1,1 @@
-# fall-2019
+# Web Fundamentals for Journalists, Fall 2019
